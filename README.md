@@ -26,3 +26,10 @@ research rabbit ：https://www.researchrabbitapp.com/
 *NLP*
 -----------------------------------------
 Speech and Language Processing：https://web.stanford.edu/~jurafsky/slp3/
+
+zlibrary: https://z-lib.is/
+
+library  genesis: https://libgen.gs/index.php 
+
+Algorithm Desigin(dynamic programming):https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/
+
