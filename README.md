@@ -9,7 +9,10 @@ ffmepg course:https://slhck.info/ffmpeg-encoding-course/#/
 *c++ tips*
 ----------------------------------------------
 google c++ style guide: https://google.github.io/styleguide/cppguide.html
-https://abseil.io/tips/
+
+c++ tips: https://abseil.io/tips/
+
+腾讯云：https://zhuanlan.zhihu.com/p/581212307
 
 **dependency parser**
 ---------------------------------------------
@@ -27,9 +30,13 @@ research rabbit ：https://www.researchrabbitapp.com/
 -----------------------------------------
 Speech and Language Processing：https://web.stanford.edu/~jurafsky/slp3/
 
+
+*Books*
+-----------------------------------------
 zlibrary: https://z-lib.is/
 
 library  genesis: https://libgen.gs/index.php 
 
 Algorithm Desigin(dynamic programming):https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/
+
 
