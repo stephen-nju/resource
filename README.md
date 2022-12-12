@@ -14,6 +14,10 @@ c++ tips: https://abseil.io/tips/
 
 腾讯云：https://zhuanlan.zhihu.com/p/581212307
 
+*cmake*
+----------------------------------------------
+cmake recipes: https://www.bookstack.cn/read/CMake-Cookbook/README.md
+
 **dependency parser**
 ---------------------------------------------
 conll-u Format: https://universaldependencies.org/format.html
@@ -34,6 +38,10 @@ Speech and Language Processing：https://web.stanford.edu/~jurafsky/slp3/
 *Books*
 -----------------------------------------
 zlibrary: https://z-lib.is/
+
+zlibrary zhelper可用：https://zhuanlan.zhihu.com/p/517862493
+
+镜像: https://www.ooopn.com/tool/zlibrary/
 
 library  genesis: https://libgen.gs/index.php 
 
