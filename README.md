@@ -12,7 +12,7 @@ google c++ style guide: https://google.github.io/styleguide/cppguide.html
 
 c++ tips: https://abseil.io/tips/
 
-腾讯云：https://zhuanlan.zhihu.com/p/581212307
+c++万字避坑指南: https://zhuanlan.zhihu.com/p/581212307
 
 *cmake*
 ----------------------------------------------
@@ -47,4 +47,11 @@ library  genesis: https://libgen.gs/index.php
 
 Algorithm Desigin(dynamic programming):https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/
 
+*Hive*
+-----------------------------------------
+官方wiki: https://cwiki.apache.org/confluence/display/Hive/LanguageManual+UDF#LanguageManualUDF-StringOperators
 
+*regex*
+-------------------------------------------
+regx101 正则测试非常方便:https://regex101.com/
+regex lookaround: https://www.regular-expressions.info/lookaround.htmL
