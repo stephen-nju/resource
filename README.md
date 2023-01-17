@@ -14,6 +14,8 @@ c++ tips: https://abseil.io/tips/
 
 c++万字避坑指南: https://zhuanlan.zhihu.com/p/581212307
 
+blog: https://brevzin.github.io/
+
 *cmake*
 ----------------------------------------------
 cmake recipes: https://www.bookstack.cn/read/CMake-Cookbook/README.md
@@ -54,4 +56,9 @@ Algorithm Desigin(dynamic programming):https://www.cs.princeton.edu/~wayne/klein
 *regex*
 -------------------------------------------
 regx101 正则测试非常方便:https://regex101.com/
+
 regex lookaround: https://www.regular-expressions.info/lookaround.htmL
+
+*rust*
+------------------------------------------
+rust programming language:  https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
