@@ -1,3 +1,12 @@
+<!--
+ * @Author: zhubin
+ * @Date: 2022-11-24 09:48:03
+ * @FilePath: \resource\README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2023 by ${git_name}, All Rights Reserved. 
+-->
+
 # Handbook
 -----------------------------------------------
 *FFMPEG*
@@ -36,6 +45,10 @@ research rabbit ：https://www.researchrabbitapp.com/
 -----------------------------------------
 Speech and Language Processing：https://web.stanford.edu/~jurafsky/slp3/
 
+预训练模型总结: https://zhuanlan.zhihu.com/p/406512290
+
+OpenAI GPT models: https://leimao.github.io/article/OpenAI-GPT-Models/
+
 
 *Books*
 -----------------------------------------
@@ -48,6 +61,9 @@ zlibrary zhelper可用：https://zhuanlan.zhihu.com/p/517862493
 library  genesis: https://libgen.gs/index.php 
 
 Algorithm Desigin(dynamic programming):https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/
+
+free computer books: https://freecomputerbooks.com/
+
 
 *Hive*
 -----------------------------------------
@@ -62,3 +78,11 @@ regex lookaround: https://www.regular-expressions.info/lookaround.htmL
 *rust*
 ------------------------------------------
 rust programming language:  https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+
+*Algorithm*
+------------------------------------------
+
+Hierholzer’s Algorithm(find the Euler Path or Euler circuit in a graph) : https://slaystudy.com/hierholzers-algorithm/
+
+*工业实践*
+搜广推工业实践收录：https://github.com/Doragd/Algorithm-Practice-in-Industry.git
