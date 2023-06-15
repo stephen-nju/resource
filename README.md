@@ -85,4 +85,6 @@ rust programming language:  https://doc.rust-lang.org/book/ch02-00-guessing-game
 Hierholzer’s Algorithm(find the Euler Path or Euler circuit in a graph) : https://slaystudy.com/hierholzers-algorithm/
 
 *工业实践*
+------------------------------------------
+
 搜广推工业实践收录：https://github.com/Doragd/Algorithm-Practice-in-Industry.git
