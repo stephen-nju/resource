@@ -88,3 +88,12 @@ Hierholzer’s Algorithm(find the Euler Path or Euler circuit in a graph) : http
 ------------------------------------------
 
 搜广推工业实践收录：https://github.com/Doragd/Algorithm-Practice-in-Industry.git
+
+
+*LLM*
+--------------------------------------------
+prompt工程： https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+transformers介绍：https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
+
+
+
