@@ -49,6 +49,7 @@ Speech and Language Processing：https://web.stanford.edu/~jurafsky/slp3/
 
 OpenAI GPT models: https://leimao.github.io/article/OpenAI-GPT-Models/
 
+QA evaluate: https://qa.fastforwardlabs.com/no%20answer/null%20threshold/bert/distilbert/exact%20match/f1/robust%20predictions/2020/06/09/Evaluating_BERT_on_SQuAD.html
 
 *Books*
 -----------------------------------------
